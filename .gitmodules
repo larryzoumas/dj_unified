@@ -1,0 +1,6 @@
+[submodule "wwwroot"]
+	path = wwwroot
+	url = https://github.com/larryzoumas/digitalajag_wwwroot
+[submodule "afcypress"]
+	path = afcypress
+	url = https://github.com/larryzoumas/afcypress.git
