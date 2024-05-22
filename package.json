@@ -2,14 +2,19 @@
   "name": "digitala-jag-client",
   "version": "2.3.1",
   "license": "UNLICENSED",
-  "scripts": {
-    "update-and-copy": "yarn upgrade && gulp copy-packages"
-  },
+  "scripts": {},
   "dependencies": {
     "@types/fitvids": "^2.1",
+    "chart.js": "^4.4",
+    "clean": "^4.0.2",
+    "fitvids": "^2.1",
+    "flexslider": "^2.7",
     "git": "^0.1.5",
     "gsap": "^3.12.3",
     "i": "^0.3.7",
+    "jquery": "^3.7",
+    "jquery-inview": "^1.1.2",
+    "jquery.scrollto": "^2.1",
     "npm": "^10.2"
   },
   "devDependencies": {
